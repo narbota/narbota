@@ -7,7 +7,7 @@ I’m a solutions engineer passionate about cloud computing, frontend developmen
 - 🎥 I love creating content that demystifies tech for everyone
 - 🌍 I love sewing and traveling!
 - 👩🏾‍🦱 Founder of www.wearewoc.dev podcast!
-- 💻 You can find me at www.andreatalkstech.com
+
 
 ### Get in Touch
 I’m always open to collaborating or chatting about new opportunities. Feel free to reach out via andrea@andreatalkstech.com or check out my [Linkedin]www.linkedin.com/in/andrea-narbot and 
