@@ -10,7 +10,7 @@ I’m a solutions engineer passionate about cloud computing, frontend developmen
 
 
 ### Get in Touch
-I’m always open to collaborating or chatting about new opportunities. Feel free to reach out via andrea@andreatalkstech.com or check out my [Linkedin]www.linkedin.com/in/andrea-narbot and 
+I’m always open to collaborating or chatting about new opportunities. Feel free to reach out via andrea@narbot.com or check out my [Linkedin]www.linkedin.com/in/andrea-narbot and 
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
