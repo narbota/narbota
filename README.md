@@ -13,4 +13,6 @@ I’m a solutions engineer passionate about cloud computing, frontend developmen
 I’m always open to collaborating or chatting about new opportunities. Feel free to reach out via andrea@andreatalkstech.com or check out my [Linkedin]www.linkedin.com/in/andrea-narbot and youtube.com/andreatalkstech.
 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
