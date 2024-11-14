@@ -6,7 +6,7 @@ I’m a solutions engineer passionate about cloud computing, frontend developmen
 - 🔥 Fan of JavaScript, React, and all things frontend
 - 🎥 I love creating content that demystifies tech for everyone
 - 🌍 I love sewing and traveling!
-- 👩🏾‍🦱 Founder of wearewoc.dev podcast!
+- 👩🏾‍🦱 Founder of www.wearewoc.dev podcast!
 - 💻 You can find me at www.andreatalkstech.com
 
 ### Get in Touch
